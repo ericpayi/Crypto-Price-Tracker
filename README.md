@@ -1,48 +1,44 @@
 # Crypto Price Tracker
 
-A simple React + TypeScript application that fetches and displays real-time cryptocurrency prices using the CoinGecko API.  
-This project is ideal for showcasing front-end development skills with API integration, state management, and responsive UI design.
+A simple React + TypeScript application that tracks live cryptocurrency prices using the [CoinGecko API](https://www.coingecko.com/en/api).  
+The app fetches real-time data and displays the current price of selected cryptocurrencies in USD.
 
 ---
 
 ## 🚀 Features
-- Live prices for popular cryptocurrencies (Bitcoin, Ethereum, Dogecoin)
-- Fetches data from the free [CoinGecko API](https://www.coingecko.com/en/api)
-- Built with React + TypeScript
-- Styled with basic CSS for a clean and minimal UI
-- Fully responsive layout
+- Live cryptocurrency prices (Bitcoin, Ethereum, etc.)
+- Built with **React** and **TypeScript**
+- Fetches real data from the CoinGecko API
+- Responsive and clean UI
 
 ---
 
-## 🛠 Tech Stack
-- **React** (with Vite)
+## 🛠️ Tech Stack
+- **React** (with Vite for fast development setup)
 - **TypeScript**
-- **CoinGecko API**
-- **CSS** for styling
+- **CSS / Tailwind (optional depending on your styling)**
+- **CoinGecko API** (free, public crypto API)
 
 ---
 
-crypto-price-tracker/
-├── src/
-│ ├── App.tsx
-│ ├── main.tsx
-│ ├── index.css
-│ └── ...
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
+## 📦 Installation & Setup
 
----
+Clone the repository and install dependencies:
 
-## ⚡ Installation & Running Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/crypto-price-tracker.git
-   cd crypto-price-tracker
-
+```bash
+git clone https://github.com/ericpayi/Crypto-Price-Tracker.git
+cd Crypto-Price-Tracker
 npm install
 
+--
+
+Start the development server:
 npm run dev
 
+Then open your browser at:
 http://localhost:5173
+
+---
+
+## 🧑‍💻 Author
+Built by Eric Payi — Frontend Developer passionate about React, TypeScript, and building real-world apps.
