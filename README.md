@@ -23,3 +23,26 @@ This project is ideal for showcasing front-end development skills with API integ
 ---
 
 ## 📂 Folder Structure
+crypto-price-tracker/
+├── src/
+│ ├── App.tsx
+│ ├── main.tsx
+│ ├── index.css
+│ └── ...
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+
+---
+
+## ⚡ Installation & Running Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/crypto-price-tracker.git
+   cd crypto-price-tracker
+
+npm install
+npm run dev
+http://localhost:5173
+
