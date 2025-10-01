@@ -22,7 +22,6 @@ This project is ideal for showcasing front-end development skills with API integ
 
 ---
 
-## 📂 Folder Structure
 crypto-price-tracker/
 ├── src/
 │ ├── App.tsx
