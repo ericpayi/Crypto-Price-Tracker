@@ -43,6 +43,7 @@ crypto-price-tracker/
    cd crypto-price-tracker
 
 npm install
-npm run dev
-http://localhost:5173
 
+npm run dev
+
+http://localhost:5173
